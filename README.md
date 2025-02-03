@@ -7,7 +7,7 @@
 ## Project Overview
 This project analyzes the geographical distribution and healthcare infrastructure for potential APOL1-positive patients across the United Kingdom. The analysis focuses on demographic patterns, healthcare accessibility, and community support systems.
 
-## Contents - On folder Project you will see the following documentation:
+## Contents - Inside folder Project you will see the following documentation:
 - Table of Contents
 - Data Dictionary: A definition for each table and column names
 - Outline: A description of this phase of the project and its steps
