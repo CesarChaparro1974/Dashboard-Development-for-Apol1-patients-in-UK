@@ -1,0 +1,28 @@
+Region,Gender,CKD Observed (%),CKD Standardised (%),Testing Observed (%),Testing Standardised  (%),Risk Observed (%),Risk Standardised (%),Bases weighted,Bases unweighted
+North East,Male,5,5,20,22,10,11,93,186
+North East,Female,2,2,22,21,6,6,108,230
+North East,All adults,3,3,21,21,8,8,201,416
+North West,Male,3,3,13,13,7,7,253,277
+North West,Female,3,4,12,12,5,5,283,359
+North West,All adults,3,3,12,12,6,6,536,636
+Yorkshire & Humber,Male,5,5,18,19,9,9,193,194
+Yorkshire & Humber,Female,2,2,16,16,5,5,199,229
+Yorkshire & Humber,All adults,3,3,17,17,7,7,392,423
+East Midlands,Male,2,2,17,17,3,3,168,176
+East Midlands,Female,2,2,23,23,7,6,172,212
+East Midlands,All adults,2,2,20,20,5,5,340,388
+West Midlands,Male,1,1,9,10,3,4,197,200
+West Midlands,Female,1,1,12,13,4,5,206,240
+West Midlands,All adults,1,1,11,11,4,4,403,440
+East of England,Male,2,2,7,6,4,4,212,296
+East of England,Female,3,2,8,7,5,4,242,375
+East of England,All adults,2,2,7,7,5,4,454,671
+London,Male,4,5,16,17,5,6,279,185
+London,Female,1,1,9,10,5,6,243,200
+London,All adults,3,3,13,14,5,6,522,385
+South East,Male,3,3,13,13,6,6,311,412
+South East,Female,3,3,13,13,5,5,361,512
+South East,All adults,3,3,13,13,6,5,672,924
+South West,Male,2,2,13,12,5,5,189,290
+South West,Female,2,1,13,13,4,4,200,343
+South West,All adults,2,1,13,13,5,4,388,633
