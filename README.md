@@ -1,6 +1,7 @@
 <p align="center">
   <img src="assets/apol1.png" width="300" alt="APOL1 Analysis">
 </p>
+
 # Dashboard Development for APOL1 Patients in UK
 
 ## Project Overview
