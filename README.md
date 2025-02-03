@@ -7,19 +7,12 @@
 ## Project Overview
 This project analyzes the geographical distribution and healthcare infrastructure for potential APOL1-positive patients across the United Kingdom. The analysis focuses on demographic patterns, healthcare accessibility, and community support systems.
 
-## Key Features
-- Geographic distribution analysis of at-risk populations
-- Healthcare coverage and accessibility assessment
-- Immigration pattern analysis
-- Community support infrastructure mapping
-- Age demographic analysis
-
-## Data Sources
-- Regional healthcare facility data
-- Immigration statistics (1951-2021)
-- Ethnic population distribution
-- Community center and support facility mapping
-- Healthcare coverage metrics
+## Contents - On folder Project you will see the following documentation:
+- Table of Contents
+- Data Dictionary: A definition for each table and column names
+- Outline: A description of this phase of the project and its steps
+- A notebook with all the analysis and insights of the analysis
+- References: A list of all the sources for datasets, raw data, census data and other notes
 
 ## Analysis Components
 1. Population Distribution
@@ -36,12 +29,6 @@ This project analyzes the geographical distribution and healthcare infrastructur
    - Community centers distribution
    - Cultural associations mapping
    - Religious institutions analysis
-
-## Key Findings
-- Greater London shows highest concentration (868,161 potential patients)
-- Significant healthcare coverage gaps (ranging 45-75%)
-- Strong correlation between urban centers and APOL1 risk factors
-- Multi-generational risk patterns identified through immigration analysis
 
 ## Installation
 ```bash
