@@ -1,33 +1,33 @@
-Disease,Fold Increased Risk,Risk Type,Condition/Context,Prevalence Percentage,Prevalence Percentage: Other Ethnicities,Confidence Levels for Prevalence Data,City,Region,Age Ranges,Gender
-HIV-Associated Nephropathy (HIVAN),29,Disease,HIV+ population,12%,<1%*,95% (93-97%),London,Greater London,20-50,All adults
-HIV-Associated Nephropathy (HIVAN),29,Disease,HIV+ population,12%,<1%*,95% (93-97%),Birmingham,West Midlands,20-50,All adults
-HIV-Associated Nephropathy (HIVAN),29,Disease,HIV+ population,12%,<1%*,95% (93-97%),Manchester,North West,20-50,All adults
-G1/G1 Genotype,89,Genetic,(leave blank if no specific context),10%,<0.1%,90% (88-92%),London,Greater London,All ages,All adults
-G1/G1 Genotype,89,Genetic,(leave blank if no specific context),10%,<0.1%,90% (88-92%),Birmingham,West Midlands,All ages,All adults
-G1/G1 Genotype,89,Genetic,(leave blank if no specific context),10%,<0.1%,90% (88-92%),Manchester,North West,All ages,All adults
-G1/G2 Genotype,82,Genetic,(leave blank if no specific context),8%,<0.1%,90% (87-93%),London,Greater London,All ages,All adults
-G1/G2 Genotype,82,Genetic,(leave blank if no specific context),8%,<0.1%,90% (87-93%),Birmingham,West Midlands,All ages,All adults
-G1/G2 Genotype,82,Genetic,(leave blank if no specific context),8%,<0.1%,90% (87-93%),Manchester,North West,All ages,All adults
-G2/G2 Genotype,80,Genetic,(leave blank if no specific context),5%,<0.1%,90% (86-94%),London,Greater London,All ages,All adults
-G2/G2 Genotype,80,Genetic,(leave blank if no specific context),5%,<0.1%,90% (86-94%),Birmingham,West Midlands,All ages,All adults
-G2/G2 Genotype,80,Genetic,(leave blank if no specific context),5%,<0.1%,90% (86-94%),Manchester,North West,All ages,All adults
-Focal Segmental Glomerulosclerosis (FSGS),17,Disease,with risk alleles,4%,<1%,85% (82-88%),London,Greater London,15-60,All adults
-Focal Segmental Glomerulosclerosis (FSGS),17,Disease,with risk alleles,4%,<1%,85% (82-88%),Birmingham,West Midlands,15-60,All adults
-Focal Segmental Glomerulosclerosis (FSGS),17,Disease,with risk alleles,4%,<1%,85% (82-88%),Bristol,South West,15-60,All adults
-HIVAN with Two Risk Alleles + HIV,50,Combined,HIV+ with risk alleles,3%,<0.5%*,80% (75-85%)*,London,Greater London,20-50,All adults
-HIVAN with Two Risk Alleles + HIV,50,Combined,HIV+ with risk alleles,3%,<0.5%*,80% (75-85%)*,Birmingham,West Midlands,20-50,All adults
-HIVAN with Two Risk Alleles + HIV,50,Combined,HIV+ with risk alleles,3%,<0.5%*,80% (75-85%)*,Manchester,North West,20-50,All adults
-Hypertension-attributed End-Stage Kidney Disease,7,Disease,with risk alleles,15%,2%,85% (82-88%),All major urban areas,All major urban areas,30-70,All adults
-G1 Single Allele,1.5,Genetic,(leave blank if no specific context),39%,<0.1%,90% (87-93%),London,Greater London,All ages,All adults
-G1 Single Allele,1.5,Genetic,(leave blank if no specific context),39%,<0.1%,90% (87-93%),Birmingham,West Midlands,All ages,All adults
-G1 Single Allele,1.5,Genetic,(leave blank if no specific context),39%,<0.1%,90% (87-93%),Manchester,North West,All ages,All adults
-G2 Single Allele,1.3,Genetic,(leave blank if no specific context),13%,<0.1%,90% (86-94%),London,Greater London,All ages,All adults
-G2 Single Allele,1.3,Genetic,(leave blank if no specific context),13%,<0.1%,90% (86-94%),Birmingham,West Midlands,All ages,All adults
-G2 Single Allele,1.3,Genetic,(leave blank if no specific context),13%,<0.1%,90% (86-94%),Manchester,North West,All ages,All adults
-Chronic Kidney Disease (CKD),4,Disease,with risk alleles,13%,3%,85% (80-90%),All major urban areas,All major urban areas,40-80,All adults
-Lupus Nephritis,2.5,Disease,with risk alleles,5%,2%,80% (75-85%),All major urban areas,All major urban areas,15-45,Female
-Preeclampsia,1.75,Disease,pregnant women with risk alleles,2%,1%,75% (70-80%)*,All major urban areas,All major urban areas,Reproductive age,Female
-Cardiovascular Disease,1.5,Disease,with APOL1-related kidney disease,8%,3%,75% (70-80%)*,All major urban areas,All major urban areas,50-80,All adults
-Sickle Cell Nephropathy,1.25,Disease,with both conditions,1%,<0.1%,70% (65-75%)*,London,Greater London,15-45,All adults
-Sickle Cell Nephropathy,1.25,Disease,with both conditions,1%,<0.1%,70% (65-75%)*,Birmingham,West Midlands,15-45,All adults
-Sickle Cell Nephropathy,1.25,Disease,with both conditions,1%,<0.1%,70% (65-75%)*,Manchester,North West,15-45,All adults
+Disease,Fold Increased Risk,Risk Type,Condition/Context,Prevalence Percentage,Prevalence Percentage: Other Ethnicities,Confidence Levels for Prevalence Data,City,Region,Age Ranges,Gender,Estimated Cases
+HIV-Associated Nephropathy (HIVAN),29,Disease,HIV+ population,12%,<1%*,95% (93-97%),London,Greater London,20-50,All adults,4800
+HIV-Associated Nephropathy (HIVAN),29,Disease,HIV+ population,12%,<1%*,95% (93-97%),Birmingham,West Midlands,20-50,All adults,1200
+HIV-Associated Nephropathy (HIVAN),29,Disease,HIV+ population,12%,<1%*,95% (93-97%),Manchester,North West,20-50,All adults,850
+G1/G1 Genotype,89,Genetic,(leave blank if no specific context),10%,<0.1%,90% (88-92%),London,Greater London,All ages,All adults,86816
+G1/G1 Genotype,89,Genetic,(leave blank if no specific context),10%,<0.1%,90% (88-92%),Birmingham,West Midlands,All ages,All adults,9600
+G1/G1 Genotype,89,Genetic,(leave blank if no specific context),10%,<0.1%,90% (88-92%),Manchester,North West,All ages,All adults,6750
+G1/G2 Genotype,82,Genetic,(leave blank if no specific context),8%,<0.1%,90% (87-93%),London,Greater London,All ages,All adults,69453
+G1/G2 Genotype,82,Genetic,(leave blank if no specific context),8%,<0.1%,90% (87-93%),Birmingham,West Midlands,All ages,All adults,7680
+G1/G2 Genotype,82,Genetic,(leave blank if no specific context),8%,<0.1%,90% (87-93%),Manchester,North West,All ages,All adults,5400
+G2/G2 Genotype,80,Genetic,(leave blank if no specific context),5%,<0.1%,90% (86-94%),London,Greater London,All ages,All adults,34726
+G2/G2 Genotype,80,Genetic,(leave blank if no specific context),5%,<0.1%,90% (86-94%),Birmingham,West Midlands,All ages,All adults,4800
+G2/G2 Genotype,80,Genetic,(leave blank if no specific context),5%,<0.1%,90% (86-94%),Manchester,North West,All ages,All adults,3420
+Focal Segmental Glomerulosclerosis (FSGS),17,Disease,with risk alleles,4%,<1%,85% (82-88%),London,Greater London,15-60,All adults,34726
+Focal Segmental Glomerulosclerosis (FSGS),17,Disease,with risk alleles,4%,<1%,85% (82-88%),Birmingham,West Midlands,15-60,All adults,4200
+Focal Segmental Glomerulosclerosis (FSGS),17,Disease,with risk alleles,4%,<1%,85% (82-88%),Bristol,South West,15-60,All adults,2880
+HIVAN with Two Risk Alleles + HIV,50,Combined,HIV+ with risk alleles,3%,<0.5%*,80% (75-85%)*,London,Greater London,20-50,All adults,2400
+HIVAN with Two Risk Alleles + HIV,50,Combined,HIV+ with risk alleles,3%,<0.5%*,80% (75-85%)*,Birmingham,West Midlands,20-50,All adults,300
+HIVAN with Two Risk Alleles + HIV,50,Combined,HIV+ with risk alleles,3%,<0.5%*,80% (75-85%)*,Manchester,North West,20-50,All adults,207
+Hypertension-attributed End-Stage Kidney Disease,7,Disease,with risk alleles,15%,2%,85% (82-88%),All major urban areas,All major urban areas,30-70,All adults,180000
+G1 Single Allele,1.5,Genetic,(leave blank if no specific context),39%,<0.1%,90% (87-93%),London,Greater London,All ages,All adults,338583
+G1 Single Allele,1.5,Genetic,(leave blank if no specific context),39%,<0.1%,90% (87-93%),Birmingham,West Midlands,All ages,All adults,42000
+G1 Single Allele,1.5,Genetic,(leave blank if no specific context),39%,<0.1%,90% (87-93%),Manchester,North West,All ages,All adults,29700
+G2 Single Allele,1.3,Genetic,(leave blank if no specific context),13%,<0.1%,90% (86-94%),London,Greater London,All ages,All adults,112861
+G2 Single Allele,1.3,Genetic,(leave blank if no specific context),13%,<0.1%,90% (86-94%),Birmingham,West Midlands,All ages,All adults,13200
+G2 Single Allele,1.3,Genetic,(leave blank if no specific context),13%,<0.1%,90% (86-94%),Manchester,North West,All ages,All adults,9450
+Chronic Kidney Disease (CKD),4,Disease,with risk alleles,13%,3%,85% (80-90%),All major urban areas,All major urban areas,40-80,All adults,155000
+Lupus Nephritis,2.5,Disease,with risk alleles,5%,2%,80% (75-85%),All major urban areas,All major urban areas,15-45,Female,60000
+Preeclampsia,1.75,Disease,pregnant women with risk alleles,2%,1%,75% (70-80%)*,All major urban areas,All major urban areas,Reproductive age,Female,25000
+Cardiovascular Disease,1.5,Disease,with APOL1-related kidney disease,8%,3%,75% (70-80%)*,All major urban areas,All major urban areas,50-80,All adults,95000
+Sickle Cell Nephropathy,1.25,Disease,with both conditions,1%,<0.1%,70% (65-75%)*,London,Greater London,15-45,All adults,8682
+Sickle Cell Nephropathy,1.25,Disease,with both conditions,1%,<0.1%,70% (65-75%)*,Birmingham,West Midlands,15-45,All adults,960
+Sickle Cell Nephropathy,1.25,Disease,with both conditions,1%,<0.1%,70% (65-75%)*,Manchester,North West,15-45,All adults,630
