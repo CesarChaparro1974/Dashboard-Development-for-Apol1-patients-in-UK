@@ -1,0 +1,14 @@
+Disease,Fold Increased Risk,Risk Type,Condition/Context,Prevalence Percentage,Confidence Levels,Estimated Cases,High Prevalence Boroughs
+HIV-Associated Nephropathy (HIVAN),29,Disease,HIV+ population,8,92% (90-94%),136,Torry
+G1/G1 Genotype,89,Genetic,African ancestry,7,88% (86-90%),452,Torry
+G2/G2 Genotype,80,Genetic,African ancestry,3,85% (82-88%),226,Torry
+Focal Segmental Glomerulosclerosis (FSGS),17,Disease,with risk alleles,3,85% (82-88%),158,Tillydrone
+HIVAN with Two Risk Alleles + HIV,50,Combined,HIV+ with risk alleles,2,80% (75-85%)*,113,Tillydrone
+Hypertension-attributed End-Stage Kidney Disease,7,Disease,with risk alleles,10,85% (82-88%),543,Tillydrone
+G1 Single Allele,1.5,Genetic,African ancestry,33,90% (87-93%),1582,Woodside
+G2 Single Allele,1.3,Genetic,African ancestry,10,90% (86-94%),497,Woodside
+Chronic Kidney Disease (CKD),4,Disease,with risk alleles,9,85% (80-90%),497,George Street
+Lupus Nephritis,2.5,Disease,with risk alleles,3,80% (75-85%),181,George Street
+Preeclampsia,1.75,Disease,pregnant women with risk alleles,1.5,75% (70-80%)*,81,Woodside
+Cardiovascular Disease,1.5,Disease,with APOL1-related kidney disease,6,75% (70-80%)*,316,Torry
+Sickle Cell Nephropathy,1.25,Disease,with both conditions,0.6,70% (65-75%)*,36,George Street
