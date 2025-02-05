@@ -1,0 +1,40 @@
+City,Disease,Fold Increased Risk,Risk Type,Condition/Context,Prevalence Percentage,Confidence Levels,Estimated Cases,High Prevalence Boroughs
+Cardiff,HIV-Associated Nephropathy (HIVAN),29.0,Disease,HIV+ population,9.5,92% (90-94%),420,Butetown
+Cardiff,G1/G1 Genotype,89.0,Genetic,African ancestry,8.5,88% (86-90%),1258,Butetown
+Cardiff,G2/G2 Genotype,80.0,Genetic,African ancestry,4.0,85% (82-88%),591,Butetown
+Cardiff,Focal Segmental Glomerulosclerosis (FSGS),17.0,Disease,with risk alleles,3.5,85% (82-88%),517,Grangetown
+Cardiff,HIVAN with Two Risk Alleles + HIV,50.0,Combined,HIV+ with risk alleles,2.5,80% (75-85%)*,369,Grangetown
+Cardiff,Hypertension-attributed End-Stage Kidney Disease,7.0,Disease,with risk alleles,11.0,85% (82-88%),1628,Grangetown
+Cardiff,G1 Single Allele,1.5,Genetic,African ancestry,33.0,90% (87-93%),4873,Riverside
+Cardiff,G2 Single Allele,1.3,Genetic,African ancestry,10.0,90% (86-94%),1480,Riverside
+Cardiff,Chronic Kidney Disease (CKD),4.0,Disease,with risk alleles,10.0,85% (80-90%),1480,Splott
+Cardiff,Lupus Nephritis,2.5,Disease,with risk alleles,4.0,80% (75-85%),591,Splott
+Cardiff,Preeclampsia,1.75,Disease,pregnant women with risk alleles,1.8,75% (70-80%)*,266,Cathays
+Cardiff,Cardiovascular Disease,1.5,Disease,with APOL1-related kidney disease,7.0,75% (70-80%)*,1035,Butetown
+Cardiff,Sickle Cell Nephropathy,1.25,Disease,with both conditions,0.8,70% (65-75%)*,118,Riverside
+Swansea,HIV-Associated Nephropathy (HIVAN),29.0,Disease,HIV+ population,9.0,92% (90-94%),246,St Thomas
+Swansea,G1/G1 Genotype,89.0,Genetic,African ancestry,8.0,88% (86-90%),738,St Thomas
+Swansea,G2/G2 Genotype,80.0,Genetic,African ancestry,3.5,85% (82-88%),347,St Thomas
+Swansea,Focal Segmental Glomerulosclerosis (FSGS),17.0,Disease,with risk alleles,3.0,85% (82-88%),303,Brynmelyn
+Swansea,HIVAN with Two Risk Alleles + HIV,50.0,Combined,HIV+ with risk alleles,2.0,80% (75-85%)*,216,Brynmelyn
+Swansea,Hypertension-attributed End-Stage Kidney Disease,7.0,Disease,with risk alleles,10.0,85% (82-88%),955,Brynmelyn
+Swansea,G1 Single Allele,1.5,Genetic,African ancestry,31.0,90% (87-93%),2860,Castle Ward
+Swansea,G2 Single Allele,1.3,Genetic,African ancestry,9.0,90% (86-94%),869,Castle Ward
+Swansea,Chronic Kidney Disease (CKD),4.0,Disease,with risk alleles,9.0,85% (80-90%),869,Townhill
+Swansea,Lupus Nephritis,2.5,Disease,with risk alleles,3.5,80% (75-85%),347,Townhill
+Swansea,Preeclampsia,1.75,Disease,pregnant women with risk alleles,1.5,75% (70-80%)*,156,Uplands
+Swansea,Cardiovascular Disease,1.5,Disease,with APOL1-related kidney disease,6.0,75% (70-80%)*,607,St Thomas
+Swansea,Sickle Cell Nephropathy,1.25,Disease,with both conditions,0.6,70% (65-75%)*,69,Castle Ward
+Newport,HIV-Associated Nephropathy (HIVAN),29.0,Disease,HIV+ population,8.5,92% (90-94%),168,Pillgwenlly
+Newport,G1/G1 Genotype,89.0,Genetic,African ancestry,7.5,88% (86-90%),504,Pillgwenlly
+Newport,G2/G2 Genotype,80.0,Genetic,African ancestry,3.0,85% (82-88%),237,Pillgwenlly
+Newport,Focal Segmental Glomerulosclerosis (FSGS),17.0,Disease,with risk alleles,2.5,85% (82-88%),207,Victoria
+Newport,HIVAN with Two Risk Alleles + HIV,50.0,Combined,HIV+ with risk alleles,1.5,80% (75-85%)*,148,Victoria
+Newport,Hypertension-attributed End-Stage Kidney Disease,7.0,Disease,with risk alleles,9.0,85% (82-88%),653,Victoria
+Newport,G1 Single Allele,1.5,Genetic,African ancestry,29.0,90% (87-93%),1955,Stow Hill
+Newport,G2 Single Allele,1.3,Genetic,African ancestry,8.0,90% (86-94%),594,Stow Hill
+Newport,Chronic Kidney Disease (CKD),4.0,Disease,with risk alleles,8.0,85% (80-90%),594,Maindee
+Newport,Lupus Nephritis,2.5,Disease,with risk alleles,3.0,80% (75-85%),237,Maindee
+Newport,Preeclampsia,1.75,Disease,pregnant women with risk alleles,1.2,75% (70-80%)*,107,St Julians
+Newport,Cardiovascular Disease,1.5,Disease,with APOL1-related kidney disease,5.0,75% (70-80%)*,415,Pillgwenlly
+Newport,Sickle Cell Nephropathy,1.25,Disease,with both conditions,0.4,70% (65-75%)*,47,Stow Hill

@@ -1,0 +1,14 @@
+Disease,Fold Increased Risk,Risk Type,Condition/Context,Prevalence Percentage,Confidence Levels,Estimated Cases,High Prevalence Boroughs
+HIV-Associated Nephropathy (HIVAN),29,Disease,HIV+ population,9,92% (90-94%),246,St Thomas
+G1/G1 Genotype,89,Genetic,African ancestry,8,88% (86-90%),738,St Thomas
+G2/G2 Genotype,80,Genetic,African ancestry,3.5,85% (82-88%),347,St Thomas
+Focal Segmental Glomerulosclerosis (FSGS),17,Disease,with risk alleles,3,85% (82-88%),303,Brynmelyn
+HIVAN with Two Risk Alleles + HIV,50,Combined,HIV+ with risk alleles,2,80% (75-85%)*,216,Brynmelyn
+Hypertension-attributed End-Stage Kidney Disease,7,Disease,with risk alleles,10,85% (82-88%),955,Brynmelyn
+G1 Single Allele,1.5,Genetic,African ancestry,31,90% (87-93%),2860,Castle Ward
+G2 Single Allele,1.3,Genetic,African ancestry,9,90% (86-94%),869,Castle Ward
+Chronic Kidney Disease (CKD),4,Disease,with risk alleles,9,85% (80-90%),869,Townhill
+Lupus Nephritis,2.5,Disease,with risk alleles,3.5,80% (75-85%),347,Townhill
+Preeclampsia,1.75,Disease,pregnant women with risk alleles,1.5,75% (70-80%)*,156,Uplands
+Cardiovascular Disease,1.5,Disease,with APOL1-related kidney disease,6,75% (70-80%)*,607,St Thomas
+Sickle Cell Nephropathy,1.25,Disease,with both conditions,0.6,70% (65-75%)*,69,Castle Ward

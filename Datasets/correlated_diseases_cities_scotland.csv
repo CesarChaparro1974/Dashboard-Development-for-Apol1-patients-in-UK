@@ -1,0 +1,53 @@
+City,Disease,Fold Increased Risk,Risk Type,Condition/Context,Prevalence Percentage,Confidence Levels,Estimated Cases,High Prevalence Boroughs
+Glasgow,HIV-Associated Nephropathy (HIVAN),29.0,Disease,HIV+ population,10.0,92% (90-94%),570,Pollokshields
+Glasgow,G1/G1 Genotype,89.0,Genetic,African ancestry,9.0,88% (86-90%),1905,Pollokshields
+Glasgow,G2/G2 Genotype,80.0,Genetic,African ancestry,4.0,85% (82-88%),952,Pollokshields
+Glasgow,Focal Segmental Glomerulosclerosis (FSGS),17.0,Disease,with risk alleles,3.5,85% (82-88%),667,Govanhill
+Glasgow,HIVAN with Two Risk Alleles + HIV,50.0,Combined,HIV+ with risk alleles,2.5,80% (75-85%)*,476,Govanhill
+Glasgow,Hypertension-attributed End-Stage Kidney Disease,7.0,Disease,with risk alleles,12.0,85% (82-88%),2286,Govanhill
+Glasgow,G1 Single Allele,1.5,Genetic,African ancestry,35.0,90% (87-93%),6669,Pollokshields
+Glasgow,G2 Single Allele,1.3,Genetic,African ancestry,11.0,90% (86-94%),2096,Pollokshields
+Glasgow,Chronic Kidney Disease (CKD),4.0,Disease,with risk alleles,11.0,85% (80-90%),2096,Govanhill
+Glasgow,Lupus Nephritis,2.5,Disease,with risk alleles,4.0,80% (75-85%),762,Southside
+Glasgow,Preeclampsia,1.75,Disease,pregnant women with risk alleles,1.8,75% (70-80%)*,343,Southside
+Glasgow,Cardiovascular Disease,1.5,Disease,with APOL1-related kidney disease,7.0,75% (70-80%)*,1334,Maryhill
+Glasgow,Sickle Cell Nephropathy,1.25,Disease,with both conditions,0.8,70% (65-75%)*,152,Maryhill
+Edimburgh,HIV-Associated Nephropathy (HIVAN),29.0,Disease,HIV+ population,10.0,92% (90-94%),472,Leith
+Edimburgh,G1/G1 Genotype,89.0,Genetic,African ancestry,9.0,88% (86-90%),1575,Leith
+Edimburgh,G2/G2 Genotype,80.0,Genetic,African ancestry,4.0,85% (82-88%),787,Leith
+Edimburgh,Focal Segmental Glomerulosclerosis (FSGS),17.0,Disease,with risk alleles,3.5,85% (82-88%),551,Wester Hailes
+Edimburgh,HIVAN with Two Risk Alleles + HIV,50.0,Combined,HIV+ with risk alleles,2.5,80% (75-85%)*,394,Wester Hailes
+Edimburgh,Hypertension-attributed End-Stage Kidney Disease,7.0,Disease,with risk alleles,12.0,85% (82-88%),1890,Wester Hailes
+Edimburgh,G1 Single Allele,1.5,Genetic,African ancestry,35.0,90% (87-93%),5512,Sighthill
+Edimburgh,G2 Single Allele,1.3,Genetic,African ancestry,11.0,90% (86-94%),1732,Sighthill
+Edimburgh,Chronic Kidney Disease (CKD),4.0,Disease,with risk alleles,11.0,85% (80-90%),1732,Gorgie
+Edimburgh,Lupus Nephritis,2.5,Disease,with risk alleles,4.0,80% (75-85%),630,Gorgie
+Edimburgh,Preeclampsia,1.75,Disease,pregnant women with risk alleles,1.8,75% (70-80%)*,283,Wester Hailes
+Edimburgh,Cardiovascular Disease,1.5,Disease,with APOL1-related kidney disease,7.0,75% (70-80%)*,1102,Leith
+Edimburgh,Sickle Cell Nephropathy,1.25,Disease,with both conditions,0.8,70% (65-75%)*,126,Sighthill
+Aberdeen,HIV-Associated Nephropathy (HIVAN),29.0,Disease,HIV+ population,8.0,92% (90-94%),136,Torry
+Aberdeen,G1/G1 Genotype,89.0,Genetic,African ancestry,7.0,88% (86-90%),452,Torry
+Aberdeen,G2/G2 Genotype,80.0,Genetic,African ancestry,3.0,85% (82-88%),226,Torry
+Aberdeen,Focal Segmental Glomerulosclerosis (FSGS),17.0,Disease,with risk alleles,3.0,85% (82-88%),158,Tillydrone
+Aberdeen,HIVAN with Two Risk Alleles + HIV,50.0,Combined,HIV+ with risk alleles,2.0,80% (75-85%)*,113,Tillydrone
+Aberdeen,Hypertension-attributed End-Stage Kidney Disease,7.0,Disease,with risk alleles,10.0,85% (82-88%),543,Tillydrone
+Aberdeen,G1 Single Allele,1.5,Genetic,African ancestry,33.0,90% (87-93%),1582,Woodside
+Aberdeen,G2 Single Allele,1.3,Genetic,African ancestry,10.0,90% (86-94%),497,Woodside
+Aberdeen,Chronic Kidney Disease (CKD),4.0,Disease,with risk alleles,9.0,85% (80-90%),497,George Street
+Aberdeen,Lupus Nephritis,2.5,Disease,with risk alleles,3.0,80% (75-85%),181,George Street
+Aberdeen,Preeclampsia,1.75,Disease,pregnant women with risk alleles,1.5,75% (70-80%)*,81,Woodside
+Aberdeen,Cardiovascular Disease,1.5,Disease,with APOL1-related kidney disease,6.0,75% (70-80%)*,316,Torry
+Aberdeen,Sickle Cell Nephropathy,1.25,Disease,with both conditions,0.6,70% (65-75%)*,36,George Street
+Dundee,HIV-Associated Nephropathy (HIVAN),29.0,Disease,HIV+ population,8.0,92% (90-94%),116,Stobswell
+Dundee,G1/G1 Genotype,89.0,Genetic,African ancestry,7.0,88% (86-90%),385,Stobswell
+Dundee,G2/G2 Genotype,80.0,Genetic,African ancestry,3.0,85% (82-88%),193,Stobswell
+Dundee,Focal Segmental Glomerulosclerosis (FSGS),17.0,Disease,with risk alleles,3.0,85% (82-88%),135,Hilltown
+Dundee,HIVAN with Two Risk Alleles + HIV,50.0,Combined,HIV+ with risk alleles,2.0,80% (75-85%)*,96,Hilltown
+Dundee,Hypertension-attributed End-Stage Kidney Disease,7.0,Disease,with risk alleles,10.0,85% (82-88%),462,Hilltown
+Dundee,G1 Single Allele,1.5,Genetic,African ancestry,33.0,90% (87-93%),1348,Lochee
+Dundee,G2 Single Allele,1.3,Genetic,African ancestry,10.0,90% (86-94%),424,Lochee
+Dundee,Chronic Kidney Disease (CKD),4.0,Disease,with risk alleles,9.0,85% (80-90%),424,Whitfield
+Dundee,Lupus Nephritis,2.5,Disease,with risk alleles,3.0,80% (75-85%),154,Whitfield
+Dundee,Preeclampsia,1.75,Disease,pregnant women with risk alleles,1.5,75% (70-80%)*,69,Lochee
+Dundee,Cardiovascular Disease,1.5,Disease,with APOL1-related kidney disease,6.0,75% (70-80%)*,269,Stobswell
+Dundee,Sickle Cell Nephropathy,1.25,Disease,with both conditions,0.6,70% (65-75%)*,31,Whitfield
