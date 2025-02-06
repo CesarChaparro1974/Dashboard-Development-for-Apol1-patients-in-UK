@@ -24,8 +24,3 @@ This project analyzes the geographical distribution and healthcare infrastructur
    - Coverage analysis by region
    - Testing facility distribution
    - Healthcare accessibility scores
-
-3. Community Support
-   - Community centers distribution
-   - Cultural associations mapping
-   - Religious institutions analysis
