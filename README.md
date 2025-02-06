@@ -24,3 +24,6 @@ This project analyzes the geographical distribution and healthcare infrastructur
    - Coverage analysis by region
    - Testing facility distribution
    - Healthcare accessibility scores
+
+## Data Access
+The data analysis and visualizations can be found in my [Jupyter Notebook](https://github.com/CesarChaparro1974/Dashboard-Development-for-Apol1-patients-in-UK/blob/main/Project/notebook.ipynb).
