@@ -29,7 +29,3 @@ This project analyzes the geographical distribution and healthcare infrastructur
    - Community centers distribution
    - Cultural associations mapping
    - Religious institutions analysis
-
-## Installation
-```bash
-git clone https://github.com/CesarChaparro1974/Dashboard-Development-for-Apol1-patients-in-UK
