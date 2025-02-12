@@ -1,0 +1,50 @@
+Region,count of black people tested,total sample,country,region
+London,2175,9388,England,Greater London
+Bradford,18,603,England,Yorkshire and the Humber
+Birmingham,356,2542,England,West Midlands
+Manchester,302,1374,England,Northwest England
+Reading,28,711,England,South East
+Carshalton,177,1772,England,Greater London
+Stevenage,56,1122,England,West of England
+Wolverhampton,62,622,England,West Midlands
+Oxford,29,1436,England,South East
+Leicester,107,2134,England,East Midlands
+Leeds,115,1150,England,Yorkshire and the Humber
+Ipswich,7,355,England,East of England
+Salford,36,1206,England,Northwest England
+Coventry,36,901,England,West Midlands
+Porstmouth,15,1529,England,South East
+Dudley,15,375,England,West Midlands
+Nottingham,60,862,England,East Midlands
+Mid-South Essex,48,966,England,East of England
+Derby,17,563,England,East Midlands
+Sheffield,46,1139,England,Yorkshire and the Humber
+Preston,11,1136,England,Northwest England
+Liverpool Royal,34,754,England,Northwest England
+Cambridge,8,754,England,East of England
+Brighton,11,1060,England,South East
+Bristol,75,1067,England,South West
+Stoke,15,762,England,West of England
+Cardiff,23,1165,Wales,South Wales
+Clwyd,1,188,Wales,North Wales
+Bangor,2,174,Wales,North Wales
+Colchester,5,258,England,East of England
+Shrewsbury,11,435,England,West Midlands
+Kent,30,1014,England,South East
+Newcastle,27,886,England,North East England
+Middlesbrough,4,778,England,North East England
+Gloucester,16,518,England,West of England
+Doncaster,11,365,England,Yorkshire and the Humber
+Sunderland,1,557,England,North East England
+Dorchester,3,611,England,South West
+Exeter,10,950,England,South West
+Wrexham,8,256,Wales,North Wales
+Birkenhead,1,412,England,Northwest England
+York,0,412,England,Yorkshire and the Humber
+Hull,15,733,England,Yorkshire and the Humber
+Norwich,13,657,England,East of England
+Plymouth,4,446,England,South West
+Swansea,14,939,Wales,South Wales
+Liverpool Aintree,7,382,England,Northwest England
+Truro,0,380,England,South West
+Carlisle,0,269,England,Northwest England
