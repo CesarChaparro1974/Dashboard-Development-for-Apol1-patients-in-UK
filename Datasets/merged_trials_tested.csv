@@ -1,0 +1,13 @@
+City,Apol1 tested,total sample,country,Region,Target Population - Inaxaplin,Target Population - JUSTICE,Clinical Trial Name,Clinical Trial Type,Inaxaplin_min,Inaxaplin_max,JUSTICE_min,JUSTICE_max,Inaxaplin_avg,JUSTICE_avg,Total_avg
+London,2175,9388,England,Greater London,"500-1,000","500-1,000","Inaxaplin, JUSTICE",Both,500,1000,500,1000,750.0,750.0,1500.0
+Birmingham,356,2542,England,West Midlands,400-800,300-600,"Inaxaplin, JUSTICE",Both,400,800,300,600,600.0,450.0,1050.0
+Manchester,302,1374,England,Northwest England,300-700,200-500,"Inaxaplin, JUSTICE",Both,300,700,200,500,500.0,350.0,850.0
+Leicester,107,2134,England,East Midlands,150-300,100-200,"Inaxaplin, JUSTICE",Both,150,300,100,200,225.0,150.0,375.0
+Leeds,115,1150,England,Yorkshire and the Humber,250-500,150-400,"Inaxaplin, JUSTICE",Both,250,500,150,400,375.0,275.0,650.0
+Coventry,36,901,England,West Midlands,150-300,100-200,"Inaxaplin, JUSTICE",Both,150,300,100,200,225.0,150.0,375.0
+Nottingham,60,862,England,East Midlands,200-400,100-300,"Inaxaplin, JUSTICE",Both,200,400,100,300,300.0,200.0,500.0
+Derby,17,563,England,East Midlands,100-200,50-150,"Inaxaplin, JUSTICE",Both,100,200,50,150,150.0,100.0,250.0
+Sheffield,46,1139,England,Yorkshire and the Humber,250-500,150-400,"Inaxaplin, JUSTICE",Both,250,500,150,400,375.0,275.0,650.0
+Bristol,75,1067,England,South West,200-400,100-300,"Inaxaplin, JUSTICE",Both,200,400,100,300,300.0,200.0,500.0
+Cardiff,23,1165,Wales,South Wales,100-200,50-150,"Inaxaplin, JUSTICE",Both,100,200,50,150,150.0,100.0,250.0
+Newcastle,27,886,England,North East England,100-300,50-150,"Inaxaplin, JUSTICE",Both,100,300,50,150,200.0,100.0,300.0
